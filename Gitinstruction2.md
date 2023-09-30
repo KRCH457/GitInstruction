@@ -61,7 +61,7 @@ git branch <название ветки>
 
  Чтобы создать ветку и сразу переключиться на неё, можно выполнить команду git checkout с параметром -b:
 ```
-$git checkout -b changeCreateBranch
+$ git checkout -b changeCreateBranch
 Switched to a new branch 'changeCreateBranch'
 ```
 
